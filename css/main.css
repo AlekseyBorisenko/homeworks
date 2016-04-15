@@ -18,12 +18,14 @@ h3{
 li{
     font-family: 'segoe print', Times, serif;
 }
-.term{
-    text-decoration: up{
+.term {
+        font-family: 'segoe print', Times, serif;
+        font-weight: 600;
+        color: #17164c;
+}
+p   {
     font-family: 'segoe print', Times, serif;
-}nderline;
-    font-weight: 600;
-    color: #17164c;
+
 }
 /*-----------------тєкст-------------------*/
 /*----------------графіка------------------*/
